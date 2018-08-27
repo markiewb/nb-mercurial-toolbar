@@ -5,6 +5,7 @@ Please fork it and create a new plugin from it. I can guide you through the proc
 
 
 
+
 nb-mercurial-toolbar
 ==================================
 
